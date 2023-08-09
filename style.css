@@ -1,3 +1,10 @@
-.bodycontainer{
-    background:red ;
+
+body{
+    background-color: rgb(252, 251, 251);
 }
+
+a:link{
+      color: rgb(218, 46, 46);
+}
+a:visited{
+    color:black;
