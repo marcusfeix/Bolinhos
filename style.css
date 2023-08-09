@@ -1,10 +1,18 @@
 
 body{
     background-color: rgb(252, 251, 251);
+    font-size: 30px;  
+    border: outset;
+    border-color:aqua;
+    border-radius: 30px;
+    border-width: 20px;
 }
+
+
 
 a:link{
       color: rgb(218, 46, 46);
 }
 a:visited{
     color:black;
+}
